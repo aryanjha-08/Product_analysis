@@ -1,0 +1,16 @@
+1. What was the best years for sales.
+2. What was the best month for sales.
+
+Visualization of the data:-
+
+1. Distribution the data.
+2. Distribution of sales per year.
+3. Brands with most sales.
+4. Brand name having most sales.
+5. Brand with most sales in 2016.
+6. Brand with most sales in 2017.
+7. Brand with most sales in 2018.
+8. Month  with most sales.
+9. Product with most sales in January.
+10. Category with least sales.
+11. Distribution of sales(pie chart).
